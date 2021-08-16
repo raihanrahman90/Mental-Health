@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AYDBot</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Selamat datang!!</string>
+    <string name="nickname">Masukkan nama panggilan anda</string>
+    <string name="next">Selanjutnya</string>
+    <string name="dummy_message">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed.</string>
+    <string name="message_hint">Masukkan pesan anda</string>
+    <string name="send">Kirim</string>
+
+
+</resources>
